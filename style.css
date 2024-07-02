@@ -5,7 +5,7 @@ body{
 .d_clock{
         color: white;
     font-size: 60px;
-    display: flow-root;
+    display: block;
     margin-top: 50%;
     height: 600vh;
     width: 100%;
