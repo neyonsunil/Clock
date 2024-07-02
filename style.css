@@ -3,11 +3,10 @@ body{
 }
 
 .d_clock{
-    color: white;
+        color: white;
     font-size: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: flow-root;
+    margin-top: 50%;
     height: 600vh;
     width: 100%;
 }
